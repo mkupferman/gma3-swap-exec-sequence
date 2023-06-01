@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="1.8.1.0">
+    <UserPlugin Name="swapexecsequence" Version="0.0.0.1">
+        <ComponentLua Name="swapexecsequence" FileName="swapexecsequence.lua" />
+    </UserPlugin>
+</GMA3>
